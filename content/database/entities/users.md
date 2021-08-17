@@ -21,7 +21,7 @@ weight: 1
 | createdBy             | ID            |                                                                             | USERS.ID          | see [User creation](#user-creation) |
 | chatfuelMessengerId   | string        |                                                                             |                   | see [User creation](#user-creation) |
 | duplicatedWithId      | ID            |                                                                             | USERS.ID          | see [User creation](#user-creation) |
-| createdByRestaurantId | ID            |                                                                             | RESAURANTS.ID     | see [User creation](#user-creation) |
+| createdByRestaurantId | ID            |                                                                             | RESTAURANTS.ID    | see [User creation](#user-creation) |
 | admin                 | boolean       |                                                                             |                   | see [Admin and roles](#admin-and-roles) |
 | roles                 | string[]      |                                                                             | ROLES.ID          | see [Admin and roles](#admin-and-roles) |
 
