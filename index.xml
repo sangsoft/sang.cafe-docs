@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SangDevBook</title>
+    <link>http://docs.sang.com.vn/</link>
+    <description>Recent content on SangDevBook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://docs.sang.com.vn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Backend</title>
+      <link>http://docs.sang.com.vn/infrastructure/backend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.sang.com.vn/infrastructure/backend/</guid>
+      <description>Backend zZZ</description>
+    </item>
+    
+    <item>
+      <title>Erd</title>
+      <link>http://docs.sang.com.vn/database/erd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.sang.com.vn/database/erd/</guid>
+      <description>ERD</description>
+    </item>
+    
+    <item>
+      <title>Frontend</title>
+      <link>http://docs.sang.com.vn/infrastructure/frontend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.sang.com.vn/infrastructure/frontend/</guid>
+      <description>FrontEnd</description>
+    </item>
+    
+    <item>
+      <title>Restaurants</title>
+      <link>http://docs.sang.com.vn/database/entities/restaurants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.sang.com.vn/database/entities/restaurants/</guid>
+      <description>R</description>
+    </item>
+    
+    <item>
+      <title>Users</title>
+      <link>http://docs.sang.com.vn/database/entities/users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://docs.sang.com.vn/database/entities/users/</guid>
+      <description>U</description>
+    </item>
+    
+  </channel>
+</rss>
