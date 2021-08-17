@@ -1,4 +1,4 @@
-baseURL = "http://docs.sang.com.vn/"
+baseURL = "https://docs.sang.com.vn/"
 languageCode = "en-us"
 title = "SangDevBook"
 theme = "book"

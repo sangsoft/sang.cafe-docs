@@ -1,0 +1,29 @@
+name: Website Deployment
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Update theme
+      run: git submodule update --init --recursive
+
+    - name: Setup hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: "0.64.0"
+
+    - name: Build
+      run: hugo --minify
+
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@4.1.4
+      with:
+        branch: gh-pages
+        folder: public

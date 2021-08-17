@@ -1,0 +1,15 @@
+{
+  "name": "sang.cafe-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nquangtrung <nquangtrung@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "hugo -D",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d public"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
