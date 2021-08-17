@@ -3,12 +3,12 @@ headless = true
 +++
 - **Index**
 
-- [Infrastructure](/docs/infrastructure)
-  - [Backend](/docs/backend)
-  - [Frontend](/docs/infrastructure/frontend)
-- [Database](/docs/database)
-  - [ERD](/docs/database/erd)
-  - [Entities](/docs/database/entities)
-    - [USERS](/docs/database/entities/users)
-    - [RESTAURANTS](/docs/database/entities/restaurants)
-- [Data analysis](/docs/data-analysis)
+- [Infrastructure](/infrastructure)
+  - [Backend](/infrastructure/backend)
+  - [Frontend](/infrastructure/frontend)
+- [Database](/database)
+  - [ERD](/database/erd)
+  - [Entities](/database/entities)
+    - [USERS](/database/entities/users)
+    - [RESTAURANTS](/database/entities/restaurants)
+- [Data analysis](/data-analysis)
