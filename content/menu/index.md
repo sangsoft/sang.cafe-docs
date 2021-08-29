@@ -12,3 +12,7 @@ headless = true
     - [USERS](/database/entities/users)
     - [RESTAURANTS](/database/entities/restaurants)
 - [Data analysis](/data-analysis)
+- [Deployment](/deployment)
+  - [Backend](/deployment/backend)
+  - [Frontend](/deployment/frontend)
+  - [Prediction model](/deployment/prediction-model)
